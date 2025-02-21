@@ -24,7 +24,7 @@
     "default_icon": {
       "128": "/images/co.png"
     },
-    "default_title": "download media from this page"
+    "default_title": "Download Media"
   },
   "options_ui": {
     "page": "options.html",
